@@ -9,7 +9,7 @@
 			<checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/master/krypton/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/master/krypton</datadir>
 		</dir>
-		<dir minversion="17.9.0">
+		<dir minversion="18.0.0">
 			<info compressed="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/master/leia/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/master/leia/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/master/leia</datadir>
