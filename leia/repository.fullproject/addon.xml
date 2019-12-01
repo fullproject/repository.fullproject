@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
-<addon id="repository.fullproject" name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR] Repository" version="0.0.12" provider-name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR]">
+<addon id="repository.fullproject" name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR] Repository" version="0.0.12" provider-name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR]">	
 	<extension point="xbmc.addon.repository" name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR]">
 	        <info compressed="false">https://raw.githubusercontent.com/fullproject/repository.fullproject/master/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/master/addons.xml.md5</checksum>
@@ -23,4 +22,3 @@
 		<news>[I]v0.0.11[/I][CR]- Para dar suporte a uma skin para o sistema kodi.</news>
     </extension>
 </addon>
-</addons>
