@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="program.hotrod.build" name="Auto Install Build" version="0.0.3" provider-name="">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary>Auto Skin Kodi</summary>
+		<description lang="en">Auto Install Build.</description>
+		<description lang="pt">Instalação Automática de uma Build.</description>
+		<platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="repository.fullproject" name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR] Repository" version="0.0.12" provider-name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR]">
 	<extension point="xbmc.addon.repository" name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR]">
 	        <info compressed="false">https://raw.githubusercontent.com/fullproject/repository.fullproject/master/addons.xml</info>
