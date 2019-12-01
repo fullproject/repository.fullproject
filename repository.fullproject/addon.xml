@@ -4,12 +4,17 @@
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.repository" name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR]">	
+		<dir>
+	        <info compressed="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/fullproject/repository.fullproject</datadir>
+		</dir>
 		<dir minversion="17.0.0">
 	        <info compressed="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/krypton/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/krypton/addons.xml.md5</checksum>
 		    <datadir zip="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/krypton</datadir>
 			<hashes>false</hashes>
-		</dir>
+		</dir>		
 		<dir minversion="18.0.0">
 	        <info compressed="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/leia/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/leia/addons.xml.md5</checksum>
