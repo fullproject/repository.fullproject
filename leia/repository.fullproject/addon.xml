@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="[COLOR red][B]Full[/B][/COLOR] [COLOR black][B]Project[/B][/COLOR]">
 	        <info compressed="false">https://raw.githubusercontent.com/fullproject/repository.fullproject/master/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/master/addons.xml.md5</checksum>
-		    <datadir zip="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/master</datadir>
+		    <datadir zip="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/master</datadir>		
 		<dir minversion="17.0.0">
 			<info compressed="true">https://raw.githubusercontent.com/fullproject/repository.fullproject/master/krypton/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/fullproject/repository.fullproject/master/krypton/addons.xml.md5</checksum>
